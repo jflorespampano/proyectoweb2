@@ -1,1 +1,5 @@
-console.log("hola");
+
+function mensaje(){
+    console.log("hola");
+}
+    
